@@ -1,3 +1,0 @@
-Test file for use in a subfolder.
-Effed it up last time.
-Hopefully not this time.
